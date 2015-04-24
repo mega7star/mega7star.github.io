@@ -5,9 +5,8 @@ title: Around the world
 
 # Это мое Второе соообщение!!!!
 
-
 это пример кода
-{% highlight linenos %}
+{% highlight C linenos %}
 int main() 
 {
   printf("HEllo world!!)");
