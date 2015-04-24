@@ -7,7 +7,7 @@ title: Around the world
 =============================
 
 это пример кода
-{% highlight linenos %}
+{% highlight %}
 int main() 
 {
   printf("HEllo world!!)");
