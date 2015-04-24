@@ -18,7 +18,8 @@ sd
 g
 sg
 sd
-```javascript
+
+{% highlight js %}
 // try innerHTML approach
 var parentTag = this.NODEMAP[elementName] || 'div';
 var parentElement = document.createElement(parentTag);
@@ -33,4 +34,6 @@ element = element.getElementsByTagName(elementName)[0];
 if(!element) element = document.createElement(elementName);
 // abort if nothing could be created
 if(!element) return;
-```
+{% endhighlight %}
+
+
